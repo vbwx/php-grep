@@ -1,6 +1,6 @@
 <?php
 // PHP grep
-// Copyright (C) 2012 Bernhard Waldbrunner
+// Copyright (C) 2012 vbwx
 /*
  *	This program is free software: you can redistribute it and/or modify
  *	it under the terms of the GNU General Public License as published by
@@ -21,7 +21,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="generator" content="TextMate + PHP">
-	<meta name="author" content="Bernhard Waldbrunner">
+	<meta name="author" content="vbwx">
 	<style type="text/css">
 	/* <![CDATA[ */
 	* {
@@ -119,3 +119,4 @@ HTML;
 ?>
 </body>
 </html>
+
